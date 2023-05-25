@@ -1,0 +1,40 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "async": "^3.1.0",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "bwip-js": "^2.0.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "macaddress": "^0.2.9",
+    "moment": "^2.24.0",
+    "mqtt": "^3.0.0",
+    "mssql": "^6.0.1",
+    "mysql": "^2.17.1",
+    "mysql2": "^2.1.0",
+    "node-snap7": "^1.0.3",
+    "onoff": "^5.0.1",
+    "os": "^0.1.1",
+    "pad": "^3.2.0",
+    "pdfkit": "^0.11.0",
+    "qr-image": "^3.2.0",
+    "sequelize": "^5.21.3",
+    "serialport": "^8.0.6",
+    "shelljs": "^0.8.3",
+    "socket.io": "^2.3.0",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
